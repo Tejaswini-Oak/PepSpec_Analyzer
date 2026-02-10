@@ -1,1 +1,2 @@
-# MS-MS-Viewer 
+# PepSpec Analyzer
+
